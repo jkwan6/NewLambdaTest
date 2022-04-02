@@ -1,0 +1,15 @@
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\obj\Debug\net6.0\NewLambdaTest.csproj.AssemblyReference.cache
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\obj\Debug\net6.0\NewLambdaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\obj\Debug\net6.0\NewLambdaTest.AssemblyInfoInputs.cache
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\obj\Debug\net6.0\NewLambdaTest.AssemblyInfo.cs
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\obj\Debug\net6.0\NewLambdaTest.csproj.CoreCompileInputs.cache
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\bin\Debug\net6.0\NewLambdaTest.exe
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\bin\Debug\net6.0\NewLambdaTest.deps.json
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\bin\Debug\net6.0\NewLambdaTest.runtimeconfig.json
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\bin\Debug\net6.0\NewLambdaTest.dll
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\bin\Debug\net6.0\NewLambdaTest.pdb
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\obj\Debug\net6.0\NewLambdaTest.dll
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\obj\Debug\net6.0\refint\NewLambdaTest.dll
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\obj\Debug\net6.0\NewLambdaTest.pdb
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\obj\Debug\net6.0\NewLambdaTest.genruntimeconfig.cache
+C:\Users\kwcw\Documents\C# Projects\NewLambdaTest\obj\Debug\net6.0\ref\NewLambdaTest.dll

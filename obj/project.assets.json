@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kwcw\\Documents\\C# Projects\\NewLambdaTest\\NewLambdaTest\\NewLambdaTest.csproj",
+      "projectUniqueName": "C:\\Users\\kwcw\\Documents\\C# Projects\\NewLambdaTest\\NewLambdaTest.csproj",
       "projectName": "NewLambdaTest",
-      "projectPath": "C:\\Users\\kwcw\\Documents\\C# Projects\\NewLambdaTest\\NewLambdaTest\\NewLambdaTest.csproj",
+      "projectPath": "C:\\Users\\kwcw\\Documents\\C# Projects\\NewLambdaTest\\NewLambdaTest.csproj",
       "packagesPath": "C:\\Users\\kwcw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kwcw\\Documents\\C# Projects\\NewLambdaTest\\NewLambdaTest\\obj\\",
+      "outputPath": "C:\\Users\\kwcw\\Documents\\C# Projects\\NewLambdaTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
