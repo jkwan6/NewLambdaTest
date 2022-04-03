@@ -14,7 +14,7 @@ namespace NewLambdaTest
             int y;
 
 
-            Func<int, int> numbers = result => x * x;
+            Func<int, int> numbers = (int result) => x * x;
 
             y = numbers(0);
 
