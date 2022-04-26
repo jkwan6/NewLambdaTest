@@ -10,13 +10,13 @@ namespace NewLambdaTest
     {
         static void Main(string[] args)
         {
-            int x = 35;
+            int x = 20;
             int y;
 
 
-            Func<int, int> numbers = (int result) => x * x;
+            Func<int,int> numbers = x => x * x;
 
-            y = numbers(0);
+            y = numbers(x);
 
             Console.WriteLine(y);
 
